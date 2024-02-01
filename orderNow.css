@@ -1,0 +1,55 @@
+.navbar-brand {
+  font-size: 25px;
+  text-transform: uppercase;
+  font-weight: 700;
+}
+
+.navbar-brand span {
+  color: rgb(5, 100, 243);
+  font-size: 33px;
+}
+
+.heading {
+  color: rgb(5, 100, 243);
+  text-transform: uppercase;
+}
+
+#colors option {
+  height: 40px !important;
+  color: #ffff;
+  font-size: 20px;
+}
+
+#black {
+  background-color: #212529;
+}
+
+#red {
+  background-color: rgb(204, 0, 0);
+}
+
+#darkGreen {
+  background-color: #00550b;
+}
+
+#pink {
+  background-color: rgb(212, 64, 89);
+}
+
+#orange {
+  background-color: orange;
+}
+
+#grey {
+  background-color: rgb(107, 107, 107);
+}
+
+#voilet {
+  background-color: rgb(167, 38, 167);
+}
+
+.footer {
+  background-color: #212529;
+  color: #ffff;
+  text-align: center;
+}
